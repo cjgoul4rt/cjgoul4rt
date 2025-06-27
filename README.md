@@ -40,6 +40,7 @@ Esportes - **Calistenia**
 <br>
 
 Livros - **Desenvolvimento pessoal**
+
 [<img src="./12-regras-para-a-vida.jpg" alt="foto do livro 12 regras para a vida">]
 
 <br>
@@ -47,6 +48,7 @@ Livros - **Desenvolvimento pessoal**
 Filmes - **Faroeste**
 <br>
 _Vingança e Castigo_
+
 [<img src="./faroeste.gif" alt="gif do filme vingança e castigo">]
 
 <br>
@@ -54,6 +56,7 @@ _Vingança e Castigo_
 Jogos - **Fighting Game**
 <br>
 _Street Fighter III: 3rd Strike_
+
 [<img src="./yang.gif" alt="gif do jogo street fighter">]
 
 <br>
