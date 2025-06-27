@@ -36,14 +36,14 @@ Música - **Rap**
 <br>
 _Warren G - Regulate ft. Nate Dogg_ 
 <br>
-[<img src="./regulate.gif" alt="gif do clip da música Regulate">](https://https://www.youtube.com/watch?v=1plPyJdXKIY)
+[<img src="./regulate.gif" alt="gif do clip da música Regulate">](https://www.youtube.com/watch?v=1plPyJdXKIY)
 
 
 <br>
 
 Esportes - **Calistenia**
 <br>
-[<img src="./calisthenics.gif" alt="gif de uma pessoa praticando calistenia">](https://https://www.youtube.com/watch?v=bU7Ue4xF3YI)
+[<img src="./calisthenics.gif" alt="gif de uma pessoa praticando calistenia">](https://www.youtube.com/watch?v=bU7Ue4xF3YI)
 
 
 <br>
