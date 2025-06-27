@@ -22,7 +22,53 @@ Qualquer ser humano é complexo demais para resumir em poucos _caracteres_, por�
 
 Atualmente, utilizo os métodos do curso _devquest_, dos Irmãos DevEmDobro. Além do que aprendo no curso, procuro sempre aprender em outras fontes externas, uma das minhas convicções é de que a internet é a ferramenta mais poderosa que uma pessoa pode usar, pois da maneira correta, ela pode mudar a sua vida.
 
-#### **_Contact me_**
+#### Hobbies
+
+Além de estudar, eu gosto de fazer várias outras atividades para passar o tempo, portanto, para exemplificar cada uma delas, usarei uma _ramificação_ que representa o meu gosto pessoal. As atividades escolhidas serão: música, esportes, livros, filmes e jogos.
+
+
+Música - **Rap**
+<br>
+_Warren G - Regulate ft. Nate Dogg_
+[<img src="./regulate.gif" alt="gif do clip da música Regulate">](https://https://www.youtube.com/watch?v=1plPyJdXKIY)
+
+<br>
+
+Esportes - **Calistenia**
+[<img src="./calisthenics.gif" alt="gif de uma pessoa praticando calistenia">](https://https://www.youtube.com/watch?v=bU7Ue4xF3YI)
+
+<br>
+
+Livros - **Desenvolvimento pessoal**
+[<img src="./12-regras-para-a-vida.jpg" alt="foto do livro 12 regras para a vida">]
+
+<br>
+
+Filmes - **Faroeste**
+<br>
+_Vingança e Castigo_
+[<img src="./faroeste.gif" alt="gif do filme vingança e castigo">]
+
+<br>
+
+Jogos - **Fighting Game**
+<br>
+_Street Fighter III: 3rd Strike_
+[<img src="./yang.gif" alt="gif do jogo street fighter">]
+
+<br>
+
+
+#### **Conclusões**
+
+Creio que tenha conseguido mostrar um pouco sobre mim nesta breve apresentação, sei que meu código ainda tem muito o que melhorar, pois ainda sou novato e tenho muito o que aprender.
+
+Obrigado por ter lido até aqui, estou totalmente aberto à críticas construtivas e totalmente à disposição para a troca de ideias. Paz!
+
+<br>
+
+
+###### **_Contact me_**
  
 <div> 
 
