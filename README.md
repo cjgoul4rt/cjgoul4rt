@@ -14,50 +14,65 @@
 
 <br>
 
-## Sobre mim <span style="font-size: 14px;"> _about me_</span>
+## Sobre mim [_about me_]
 
 Qualquer ser humano é complexo demais para resumir em poucos _caracteres_, porém eu gosto de desafios. Eu sou jovem e ambiocioso, entrei para o mundo da programação pela complexidade e nível de aprendizado que se pode alcançar. Todos os dias eu busco aprender mais sobre esse mundo dos devs, com a finalidade de tornar isso a minha vida. Essa é a minha missão!
+
+<br>
 
 ### Estudos
 
 Atualmente, utilizo os métodos do curso _devquest_, dos Irmãos DevEmDobro. Além do que aprendo no curso, procuro sempre aprender em outras fontes externas, uma das minhas convicções é de que a internet é a ferramenta mais poderosa que uma pessoa pode usar, pois da maneira correta, ela pode mudar a sua vida.
 
+<br>
+
 #### Hobbies
 
 Além de estudar, eu gosto de fazer várias outras atividades para passar o tempo, portanto, para exemplificar cada uma delas, usarei uma _ramificação_ que representa o meu gosto pessoal. As atividades escolhidas serão: música, esportes, livros, filmes e jogos.
 
+<br>
 
 Música - **Rap**
 <br>
-_Warren G - Regulate ft. Nate Dogg_
+_Warren G - Regulate ft. Nate Dogg_ 
+<br>
 [<img src="./regulate.gif" alt="gif do clip da música Regulate">](https://https://www.youtube.com/watch?v=1plPyJdXKIY)
+
 
 <br>
 
 Esportes - **Calistenia**
+<br>
 [<img src="./calisthenics.gif" alt="gif de uma pessoa praticando calistenia">](https://https://www.youtube.com/watch?v=bU7Ue4xF3YI)
+
 
 <br>
 
 Livros - **Desenvolvimento pessoal**
+<br>
+<img src="./12-regras-para-a-vida.jpg" alt="foto do livro 12 regras para a vida">
 
-[<img src="./12-regras-para-a-vida.jpg" alt="foto do livro 12 regras para a vida">]
+
 
 <br>
 
 Filmes - **Faroeste**
 <br>
 _Vingança e Castigo_
+<br>
+<img src="./faroeste.gif" alt="gif do filme vingança e castigo">
 
-[<img src="./faroeste.gif" alt="gif do filme vingança e castigo">]
+
 
 <br>
 
 Jogos - **Fighting Game**
 <br>
 _Street Fighter III: 3rd Strike_
+<br>
+<img src="./yang.gif" alt="gif do jogo street fighter">
 
-[<img src="./yang.gif" alt="gif do jogo street fighter">]
+
 
 <br>
 
@@ -75,7 +90,7 @@ Obrigado por ter lido até aqui, estou totalmente aberto à críticas construtiv
  
 <div> 
 
-  <a href="https://www.instagram.com/cleitongoulart?igsh=bDhmeHBmZWdqMGFm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/cleitongoulart?igsh=bDhmeHBmZWdqMGFm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G3sWYVvpfB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://linkedin.com/in/cjgoul4rt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
