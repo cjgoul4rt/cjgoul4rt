@@ -28,5 +28,5 @@ Atualmente, utilizo os métodos do curso _devquest_, dos Irmãos DevEmDobro. Al�
 
   <a href="https://www.instagram.com/cleitongoulart?igsh=bDhmeHBmZWdqMGFm&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G3sWYVvpfB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="www.linkedin.com/in/cleiton-goulart-523241244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://linkedin.com/in/cjgoul4rt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
