@@ -16,7 +16,7 @@
 
 ## Sobre mim [_about me_]
 
-Qualquer ser humano é complexo demais para resumir em poucos _caracteres_, porém eu gosto de desafios. Eu sou jovem e ambiocioso, entrei para o mundo da programação pela complexidade e nível de aprendizado que se pode alcançar. Todos os dias eu busco aprender mais sobre esse mundo dos devs, com a finalidade de tornar isso a minha vida. Essa é a minha missão!
+Qualquer ser humano é complexo demais para resumir em poucos _caracteres_, porém eu gosto de desafios. Eu sou jovem e ambicioso, entrei para o mundo da programação pela complexidade e nível de aprendizado que se pode alcançar. Todos os dias eu busco aprender mais sobre esse mundo dos devs, com a finalidade de tornar isso a minha vida. Essa é a minha missão!
 
 <br>
 
